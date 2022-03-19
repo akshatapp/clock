@@ -1,8 +1,12 @@
 # Flutter Web Clock Demo
 This is a sample flutter web clock demo hosted using GitHub Pages for the flutter clock challenge submission.
 
-## [LIVE WEB DEMO URL](https://akshatapp.github.io/clock/index.html)
-Note : The above live demo url is a flutter web build hosted on GitHub Pages, there may be minor UI changes compared to the mobile platform (Android or iOS) user interface.
+## LIVE WEB DEMO URL
+🔗 [timedial.pages.dev](https://timedial.pages.dev) 
+<br>
+🔗 [GitHub Pages](https://akshatapp.github.io/clock/index.html)
+<br>
+*Note : The above live demo url is a flutter web build hosted on GitHub Pages, there may be minor UI changes compared to the mobile platform (Android or iOS) user interface.*
 
 ## [REPOSITORY URL](https://github.com/akshatapp/flutter_clock)
 Flutter Clock Challenge Submission
